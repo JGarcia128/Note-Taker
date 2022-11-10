@@ -40,6 +40,10 @@ I was able to add the DELETE route to the application. I was able to add the del
 
 ## Picture of the application
 
+![image](https://user-images.githubusercontent.com/107437105/201005802-e1f47069-164e-41e1-b50d-248da3167fe5.png)
+![image](https://user-images.githubusercontent.com/107437105/201005989-8ad3c1d1-00e6-4e86-a52a-43782b4d7135.png)
+![image](https://user-images.githubusercontent.com/107437105/201006117-05c7ec45-e516-4d72-8623-c622eb2cadc8.png)
+![image](https://user-images.githubusercontent.com/107437105/201006195-9c75d844-b083-4364-9011-73ef4a74c2dc.png)
 
 
 ## Review
