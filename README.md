@@ -57,6 +57,6 @@ Demostrating the delete button and deleting the note that was created in the dem
 
 You are required to submit BOTH of the following for review:
 
-* The URL of the functional, deployed application.
+* The URL of the functional: http://localhost:3001/notes
 
-* The URL of the GitHub repository, with a unique name and a README describing the project.
+* The URL of the GitHub repository: https://jgarcia128.github.io/Note-Taker/
